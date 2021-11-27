@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello there 👋, my name is Abishek
+#### I am a final year Computer Science student
+![I am a final year Computer Science student](https://i.ibb.co/W2DgYH2/Screenshot-2021-11-27-202025.png)
 
-<!--
-**kimi0zx/kimi0zx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Aspiring Web and App Developer with interests in
+various emerging technologies. Known for good
+problem-solving skills and quick to take up new
+concepts with ease. Ready to utilize my skills and
+passion to solve real world problems.
 
-Here are some ideas to get you started:
+Skills: ReactJS / NodeJS/ HTML5 / CSS3 / C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a url shortner. 
+- 🌱 I’m currently learning Solidity. 
+- 👯 I’m looking to collaborate on anything on ethereum. 
+- 📫 How to reach me: ring me up on any of my socials. 
+- ⚡ Fun fact: If you subtract your age from the current year, you get your year of birth.  
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kimi0zx)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abishek-c101/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@AbishekC101)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/kimi0zx/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimi0zx)](https://github.com/anuraghazra/github-readme-stats)
+
