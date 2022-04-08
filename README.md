@@ -1,6 +1,6 @@
 ### Hello there 👋, my name is Abishek
 #### I am a final year Computer Science student
-![I am a final year Computer Science student](https://i.pinimg.com/originals/96/7e/5a/967e5a1e0d7078684ffc3fd1e4e64811.jpg)
+![I am a final year Computer Science student](http://wallup.net/wp-content/uploads/2017/03/28/433382-ultra-wide-Japan-anime-sky-sunlight.jpg)
 
 I am a Aspiring Web and App Developer with interests in
 various emerging technologies. Known for good
