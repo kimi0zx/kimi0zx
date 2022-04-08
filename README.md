@@ -2,17 +2,17 @@
 #### I am a final year Computer Science student
 ![I am a final year Computer Science student](http://wallup.net/wp-content/uploads/2017/03/28/433382-ultra-wide-Japan-anime-sky-sunlight.jpg)
 
-I am a Aspiring Web and App Developer with interests in
+I am a Software Developer with interests in
 various emerging technologies. Known for good
 problem-solving skills and quick to take up new
 concepts with ease. Ready to utilize my skills and
 passion to solve real world problems.
 
-Skills: ReactJS / NodeJS/ HTML5 / CSS3 / C++
+Skills: PyTorch / NumPy / ReactJS / NodeJS/ HTML5 / CSS3 / C++
 
-- 🔭 I’m currently working on a url shortner. 
-- 🌱 I’m currently learning Solidity. 
-- 👯 I’m looking to collaborate on anything on ethereum. 
+- 🔭 I’m currently working on 3D Pose Estimation. 
+- 🌱 I’m currently learning Deep Learning. 
+- 👯 I’m looking to collaborate on anything on Computer Vision.
 - 📫 How to reach me: ring me up on any of my socials. 
 - ⚡ Fun fact: If you subtract your age from the current year, you get your year of birth.  
 
